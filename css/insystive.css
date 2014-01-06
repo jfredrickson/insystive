@@ -13,6 +13,17 @@ h1, h2, h3, h4 {
   color: #606060;
 }
 
+main {
+  margin-top: 20px;
+}
+
+footer {
+  background: transparent;
+  text-align: center;
+  height: 40px;
+  margin-top: 20px;
+}
+
 #wrap {
   min-height: 100%;
   height: auto !important;
@@ -251,21 +262,6 @@ body.home .intro img.video-thumbnail {
 
 .navbar-default .navbar-right > li > a {
   border-left: 1px solid #e7e7e7;
-}
-
-/* MAIN */
-
-main {
-  margin-top: 20px;
-}
-
-/* FOOTER */
-
-footer {
-  background: transparent;
-  text-align: center;
-  height: 40px;
-  margin-top: 20px;
 }
 
 /* FONTS */
