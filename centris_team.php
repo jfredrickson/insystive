@@ -59,7 +59,7 @@
             </div>
             <div class="col-md-10">
               <h2 class="bio-heading">Ryan O'Connor <span class="text-muted">/ UX/UI Lead</span></h2>
-              <p>Ryan is our UX/UI lead and will be our primary development liaison with Cremalab. He will be responsible for ensuring designing the user flow with Cremalab and he will ensure appropriate testing during product development.</p>
+              <p>Ryan is our UX/UI lead and will be our primary development liaison with Cremalab. He will be responsible for designing the user flow with Cremalab, and he will ensure appropriate testing during product development.</p>
             </div>
           </div>
           
