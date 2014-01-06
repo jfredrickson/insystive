@@ -12,7 +12,7 @@
   </div>
   <nav class="navbar-collapse collapse">
     <ul class="nav navbar-nav navbar-left">
-      <li><a href="centris_project.php">CentrIS Project</a></li>
+      <li><a href="centris_project.php">CentrIS Product</a></li>
       <li><a href="centris_team.php">CentrIS Team</a></li>
       <li><a href="centris_partners.php">CentrIS Partners</a></li>
       <li><a href="centris_sprint.php">Sprint Accelerator</a></li>
