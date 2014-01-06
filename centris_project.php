@@ -34,12 +34,12 @@
           <hr class="featurette-divider">
           
           <div class="row featurette">
-            <div class="col-md-6">
+            <div class="col-md-4">
               <div class="video-container">
                 <iframe width="560" height="315" src="//www.youtube.com/embed/snT6k3SLsbo?rel=0&amp;wmode=transparent&amp;theme=light" frameborder="0" allowfullscreen></iframe>
               </div>
             </div>
-            <div class="col-md-6">
+            <div class="col-md-8">
               <h2 class="featurette-heading">How do you make people safer, healthier and more independent?</h2>
               <p class="lead">In healthcare, independence is achieved by connecting real-time patient data (not just health records) to the people who need it most.  Although CentrIS can also be used for enterprise IT systems, it is initially being developed for the individual consumer.</p>
               <p class="lead">CentrIS will offer safe, independent living for those managing aging, chronic disease or disability. We do this by connecting our customers' medical device information with their caregivers or loved ones.</p>
