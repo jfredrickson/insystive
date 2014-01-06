@@ -208,6 +208,17 @@ body.home .intro img.video-thumbnail {
   margin: 0 auto;
 }
 
+.linkedin {
+  margin: 4px 0;
+}
+.linkedin img, .linkedin span {
+  vertical-align: middle;
+}
+
+.linkedin span {
+  margin-left: 5px;
+}
+
 /* NAVIGATION */
 
 .navbar-default {
