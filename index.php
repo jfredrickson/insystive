@@ -21,7 +21,7 @@
       <main id="content">
         <div class="container">
           <section class="intro">
-            <h1>Helping people live safer, healthier and more independently.</h1>
+            <h1>Helping people live healthy, safe and independent lives.</h1>
             <p>Learn more about CentrIS:</p>
             <a class="colorbox colorbox-video" href="//www.youtube.com/embed/snT6k3SLsbo?rel=0&amp;wmode=transparent&amp;theme=light"><img class="video-thumbnail" src="images/video-screencap.jpg" alt="Illustration of an elderly man walking through town"></a>
           </section>
