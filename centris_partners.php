@@ -34,8 +34,8 @@
 
             <h2>Cremalab</h2>
 
-            <p>Cremalab is passionate about connecting business and product development to amazing digital experiences.  They work as partners to create a constant shared understanding of the business and product assumptions, goals, and outcomes in order to measure success for each product iteration. The work iteratively through design and development in order to move features forward so that product assumptions can be validated as quickly as possible.</p>
-            <p>Cremalab’s team provides all facets of digital product development. They are passionate about great user experience and creative user interfaces. They are experts in  Ruby on Rails development, Javascript application development (node.js, chaplin, etc.) and responsive front-end development for browsers of all sizes.</p>
+            <p>Cremalab is passionate about connecting business and product development to amazing digital experiences.  They work as partners to create a constant shared understanding of the business and product assumptions, goals, and outcomes in order to measure success for each product iteration. They work iteratively through design and development in order to move features forward so that product assumptions can be validated as quickly as possible.</p>
+            <p>Cremalab's team provides all facets of digital product development. They are passionate about great user experience and creative user interfaces. They are experts in  Ruby on Rails development, Javascript application development (node.js, chaplin, etc.) and responsive front-end development for browsers of all sizes.</p>
             <p>Their team does not go away to build products in isolation, but works collaboratively to build the right solutions with their partners.  Cremalab is passionate about building successful products not only for their partners, but also for the users and customers of their products. They desire to build products and businesses that scale, last and solve real problems.</p>
             <p>Visit them at <a href="http://www.cremalab.com/">www.cremalab.com</a>.</p>
           </section>
