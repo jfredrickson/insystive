@@ -25,7 +25,7 @@
 
             <p>Sprint and Techstars have combined to offer a unique opportunity for ten teams to build their business in Kansas City's famous Crossroads District. We strongly believe we have the right idea, the right team and just the right time to develop our product demo and help make people’s lives safer, healthier and more independent.</p>
 
-            <p>Insystive is excited to apply to the 2014 Sprint Accelerator in Kansas City, MO. Insystive founder Justin Brown's family hails from Kansas City and he spent his entire life travelling to and from the area. Justin considers Kansas City his second home and is thrilled to have this opportunity to help build the Silicon Prairie.</p>
+            <p>Insystive is excited to apply to the 2014 Sprint Accelerator in Kansas City, MO. Insystive founder Justin Brown's family hails from Kansas City and he spent his entire life traveling to and from the area. Justin considers Kansas City his second home and is thrilled to have this opportunity to help build the Silicon Prairie.</p>
           </section>
         </div>
       </main>
