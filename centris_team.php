@@ -46,7 +46,8 @@
             </div>
             <div class="col-md-10">
               <h2 class="bio-heading">Ipsheeta Furtado <span class="text-muted">/ COO</span></h2>
-              <p>Ipsheeta is an engineer and serial entrepreneur. She has built her own startups, assisted others and won several awards along the way.  She brings a wealth of experience in technology, business and management, and we are excited to have her as a critical addition to our talented team. She is from Manhattan, KS (The Little Apple).</p>
+              <p>Ipsheeta is an engineer and serial entrepreneur. She has built her own startups, assisted others and won several awards along the way.  She brings a wealth of experience in technology, business and management, and we are excited to have her as a critical addition to our talented team.</p>
+              <p><b>From:</b> Manhattan, KS (The Little Apple)</p>
             </div>
           </div>
           
