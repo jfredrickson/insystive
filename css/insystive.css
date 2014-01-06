@@ -206,6 +206,10 @@ body.home .intro img.video-thumbnail {
   margin-top: 0;
 }
 
+.bio-image {
+  margin: 0 auto;
+}
+
 /* NAVIGATION */
 
 .navbar-default {
@@ -278,7 +282,7 @@ body.home .intro img.video-thumbnail {
   font-style: normal;
 }
 */
-
+*
 @font-face {
   font-family: 'AlegreyaSansLight';
   src: url('../fonts/AlegreyaSans-Light-webfont.eot');
