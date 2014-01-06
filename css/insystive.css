@@ -266,6 +266,7 @@ body.home .intro img.video-thumbnail {
 
 /* FONTS */
 
+/*
 @font-face {
   font-family: 'AlegreyaSansRegular';
   src: url('../fonts/AlegreyaSans-Regular-webfont.eot');
@@ -276,6 +277,7 @@ body.home .intro img.video-thumbnail {
   font-weight: normal;
   font-style: normal;
 }
+*/
 
 @font-face {
   font-family: 'AlegreyaSansLight';
