@@ -42,7 +42,7 @@
             <div class="col-md-6">
               <h2 class="featurette-heading">How do you make people safer, healthier and more independent?</h2>
               <p class="lead">In healthcare, independence is achieved by connecting real-time patient data (not just health records) to the people who need it most.  Although CentrIS can also be used for enterprise IT systems, it is initially being developed for the individual consumer.</p>
-              <p class="lead">CentrIS will offer safe, independent living for those managing aging, chronic disease or disability. We do this by connecting our customers medical device information with their caregivers or loved ones.</p>
+              <p class="lead">CentrIS will offer safe, independent living for those managing aging, chronic disease or disability. We do this by connecting our customers' medical device information with their caregivers or loved ones.</p>
             </div>
           </div>
           
