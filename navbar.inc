@@ -12,15 +12,10 @@
   </div>
   <nav class="navbar-collapse collapse">
     <ul class="nav navbar-nav navbar-left">
-      <li class="dropdown">
-        <a href="#" class="dropdown-toggle" data-toggle="dropdown">CentrIS <b class="caret"></b></a>
-        <ul class="dropdown-menu">
-          <li><a href="centris_project.php">The Project</a></li>
-          <li><a href="centris_team.php">The Team</a></li>
-          <li><a href="centris_partners.php">Our Partners</a></li>
-          <li><a href="centris_sprint.php">Sprint Accelerator</a></li>
-        </ul>
-      </li>
+      <li><a href="centris_project.php">CentrIS Project</a></li>
+      <li><a href="centris_team.php">CentrIS Team</a></li>
+      <li><a href="centris_partners.php">CentrIS Partners</a></li>
+      <li><a href="centris_sprint.php">Sprint Accelerator</a></li>
     </ul>
     <ul class="nav navbar-nav navbar-right">
       <li><a href="about.php">About Us</a></li>
