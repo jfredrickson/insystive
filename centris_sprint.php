@@ -23,12 +23,15 @@
           <section>
             <h1>Sprint Accelerator</h1>
             
-            <p style="text-align: center">
-              <img src="images/sprint-logo.png" alt="Sprint logo">
-              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-              <img src="images/techstars-logo.png" alt="Techstars logo">
-            </p>
-
+            <div class="row">
+              <div class="col-md-6">
+                <img class="img-responsive" src="images/sprint-logo.png" alt="Sprint logo" style="margin: 0 auto">
+              </div>
+              <div class="col-md-6">
+                <img class="img-responsive" src="images/techstars-logo.png" alt="Techstars logo" style="margin: 0 auto">
+              </div>
+            </div>
+          
             <hr>
             
             <p>Sprint and Techstars have combined to offer a unique opportunity for ten teams to build their business in Kansas City's famous Crossroads District. We strongly believe we have the right idea, the right team and just the right time to develop our product demo and help make people’s lives safer, healthier and more independent.</p>
