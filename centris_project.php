@@ -49,7 +49,7 @@
 
           <div class="row featurette">
             <div class="col-md-8">
-              <h2 class="featurette-heading">Real-time. <span class="text-muted">Because you need data now.</h2>
+              <h2 class="featurette-heading">Real-time. <span class="text-muted">Because you need data now.</span></h2>
               <p class="lead">Our system offers real-time, vendor-neutral communication between patients, devices and caregivers.</p>
               <p class="lead">At Insystive, we don’t believe consumers should have to choose between cutting edge medical devices and cutting edge communications.  That’s why we have focused on connecting existing devices in more useful ways.</p>
               <p class="lead">With CentrIS, Insystive is building an ecosystem of medical devices that puts the power of real-time health data in the hands of those who need it most.</p>
