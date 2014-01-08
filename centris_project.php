@@ -27,7 +27,7 @@
               <p class="lead">CentrIS will connect caregivers with real-time alerts, notifications and data about the acute status of their patients and loved ones. It uses cutting-edge technology to bridge the gap between care levels and provide a means for those managing aging and chronic illness to remain safely independent.</p>
             </div>
             <div class="col-md-4">
-              <img class="featurette-image img-responsive" src="images/centris-diagram.png" alt="General diagram of CentrIS system">
+              <img class="featurette-image img-responsive" src="images/centris-diagram.png" alt="General diagram of CentrIS system, showing data from devices, sensors and monitors being stored in a database and then displayed on mobile devices and a web portal.">
             </div>
           </div>
           
@@ -55,7 +55,7 @@
               <p class="lead">With CentrIS, Insystive is building an ecosystem of medical devices that puts the power of real-time health data in the hands of those who need it most.</p>
             </div>
             <div class="col-md-4">
-              <img class="featurette-image img-responsive" src="images/sphygmomanometer.jpg" alt="Sphygmomanometer">
+              <img class="featurette-image img-responsive" src="images/sphygmomanometer.jpg" alt="Photo of a digital sphygmomanometer">
             </div>
           </div>
           
