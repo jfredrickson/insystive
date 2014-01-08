@@ -256,6 +256,12 @@ body.home .intro img.video-thumbnail {
   font-size: 18px;
 }
 
+@media (min-width: 768px) and (max-width: 991px) {
+  .navbar-default .navbar-nav > li > a, .navbar-default .navbar-nav a {
+    font-size: 14px;
+  }
+}
+
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
   color: #286d93;
