@@ -46,16 +46,30 @@
           </div>
           
           <hr class="featurette-divider">
+          
+          <div class="row featurette">
+            <div class="col-md-8">
+              <h2 class="featurette-heading">CentrIS <span class="text-muted">isn't just for the elderly.</span></h2>
+              <p class="lead">Watch this short video to see how CentrIS can change the lives of parents and teenagers with managing chronic illness.</p>
+            </div>
+            <div class="col-md-4">
+              <div class="video-container">
+                <iframe width="560" height="315" src="//www.youtube.com/embed/otS85eNidOg?rel=0&amp;wmode=transparent&amp;theme=light" frameborder="0" allowfullscreen></iframe>
+              </div>
+            </div>
+          </div>
+          
+          <hr class="featurette-divider">
 
           <div class="row featurette">
+            <div class="col-md-4">
+              <img class="featurette-image img-responsive" src="images/sphygmomanometer.jpg" alt="Photo of a digital sphygmomanometer">
+            </div>
             <div class="col-md-8">
               <h2 class="featurette-heading">Real-time. <span class="text-muted">Because you need data now.</span></h2>
               <p class="lead">Our system offers real-time, vendor-neutral communication between patients, devices and caregivers.</p>
               <p class="lead">At Insystive, we don’t believe consumers should have to choose between cutting edge medical devices and cutting edge communications.  That’s why we have focused on connecting existing devices in more useful ways.</p>
               <p class="lead">With CentrIS, Insystive is building an ecosystem of medical devices that puts the power of real-time health data in the hands of those who need it most.</p>
-            </div>
-            <div class="col-md-4">
-              <img class="featurette-image img-responsive" src="images/sphygmomanometer.jpg" alt="Photo of a digital sphygmomanometer">
             </div>
           </div>
           
